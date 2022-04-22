@@ -1,2 +1,1 @@
-# CS-guide
-计算科学导引作业
+# Computer Science Foundations course assignment of HDU
